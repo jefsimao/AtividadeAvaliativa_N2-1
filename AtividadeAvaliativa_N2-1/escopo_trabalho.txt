@@ -1,0 +1,16 @@
+Escopo
+
+app de trocas de celular
+
+Pontos principais:
+Readme com a explicação - 20%
+
+Arquitetura no draw.io - 20%
+
+Obrigatório ter 2 lambdas - 20%
+
+1 fila - 20%
+
+Repositório comitado - 20%
+
+
